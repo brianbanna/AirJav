@@ -5,15 +5,14 @@ AirJav is a Java-based application that decodes and visualizes live ADS-B (Autom
 ## Table of Contents
 
 - [Preview](#preview)
+- [Map Interface](#map-interface)
 - [What is ADS-B?](#what-is-ads-b)
 - [Features](#features)
-- [How It Works](#how-it-works)
+- [Altitude Visualization](#altitude-visualization)
 - [Installation](#installation)
 - [Prerequisites](#prerequisites)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Architecture](#architecture)
-- [Technical Details](#technical-details)
 
 ## Preview
 
